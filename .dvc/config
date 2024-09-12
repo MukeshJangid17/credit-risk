@@ -6,3 +6,5 @@
     url = https://drive.google.com/drive/folders/1MVCveKczthPVdY4b0x6xtOr7NZ5R4BvQ
 ['remote "mukesh"']
     url = https://drive.google.com/drive/folders/1MVCveKczthPVdY4b0x6xtOr7NZ5R4BvQ?usp=sharing
+['remote "myremote"']
+    url = https://drive.google.com/drive/folders/1MVCveKczthPVdY4b0x6xtOr7NZ5R4BvQ
